@@ -1,3 +1,6 @@
+//https://github.com/sandeepmistry/arduino-LoRa
+//https://www.instructables.com/id/Getting-LoRa-SX1278XL1278-SMT-Working-Via-SPI-on-t/
+
 /* LoRa Duplex communication wth callback
 
   Sends a message every half second, and uses callback
